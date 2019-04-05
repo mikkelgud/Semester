@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProgUtvSemester">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProgUtvSemester/dist/ProgUtvSemester.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
